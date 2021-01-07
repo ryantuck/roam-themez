@@ -1,4 +1,12 @@
+    /* ==UserStyle==
+@name           Roam 1337 Dark
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Make Roam feel more like terminal
+@author         Ryan Tuck
+==/UserStyle== */
 @-moz-document domain("roamresearch.com") {
+
 
     div {
         font-family: courier;
@@ -77,6 +85,10 @@
     a {
         color: #0ff;
     }
+    
+    a:hover {
+        color:magenta;
+    }
 
     * {
         font-family: courier;
@@ -147,6 +159,10 @@
     
     .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
         color: magenta;
+    }
+    
+    .rm-bq {
+        background-color: #333;
     }
     
 }
