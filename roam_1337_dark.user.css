@@ -85,7 +85,7 @@
     a {
         color: #0ff;
     }
-    
+
     a:hover {
         color:magenta;
     }
@@ -153,16 +153,19 @@
         color: #bbb !important;
     }
 
-    .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button {  
+    .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button {
         color: white;
     }
-    
+
     .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
         color: magenta;
     }
-    
+
     .rm-bq {
         background-color: #333;
     }
-    
+
+    .rm-block-ref:hover {
+        background-color: #444;
+    }
 }
