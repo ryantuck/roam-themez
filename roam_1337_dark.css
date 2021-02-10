@@ -1,10 +1,10 @@
 div {
-    font-family: courier;
+    font-family: roboto mono;
     color: white;
 }
 
 .roam-body .roam-app h1 {
-    font-family: courier;
+    font-family: roboto mono;
     color: white;
 }
 
@@ -26,7 +26,7 @@ div {
 }
 
 .rm-block-input {
-    font-family: courier;
+    font-family: roboto mono;
 }
 
 .rm-page-ref__brackets {
@@ -81,7 +81,7 @@ a:hover {
 }
 
 * {
-    font-family: courier;
+    font-family: roboto mono;
 }
 
 .roam-body .roam-app .roam-sidebar-container {
