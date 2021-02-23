@@ -159,3 +159,7 @@ a:hover {
 .rm-block-ref:hover {
     background-color: #444;
 }
+
+.rm-block-text {
+    background-color: #555;
+}
